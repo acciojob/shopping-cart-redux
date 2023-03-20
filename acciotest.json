@@ -1,4 +1,4 @@
 {
-    "testRepo": "solution-repo-name",
+    "testRepo": "shopping-cart-redux-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
